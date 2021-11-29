@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Coronet Peak",
+    "city": "Queenstown",
+    "location": {
+      "latitude": -44.926964,
+      "longitude": 168.735714
+    }
+  },
+  {
+    "name": "Sky Tower",
+    "city": "Auckland",
+    "location": {
+      "latitude": -36.848492,
+      "longitude": 174.762185
+    }
+  },
+  {
+    "name": "Moeraki Boulders",
+    "city": "Hampden",
+    "location": {
+      "latitude": -45.345307,
+      "longitude": 170.826195
+    }
+  },
+  {
+    "name": "Great wall of China",
+    "city": "Beijing",
+    "location": {
+      "latitude": 40.4331742,
+      "longitude": 116.570376
+    }
+  },
+  {
+    "name": "Forbidden City",
+    "city": "Beijing",
+    "location": {
+      "latitude": 39.913663,
+      "longitude": 116.397235
+    }
+  },
+  {
+    "name": "Dingdu Pavilion",
+    "city": "Beijing",
+    "location": {
+      "latitude": 39.907147,
+      "longitude": 116.055905
+    }
+  },
+  {
+    "name": "Uluru",
+    "city": "Northern Territory",
+    "location": {
+      "latitude": -25.346703,
+      "longitude": 131.036459
+    }
+  },
+  {
+    "name": "Great Barrier Reef",
+    "city": "Australia",
+    "location": {
+      "latitude": -19.111169,
+      "longitude": 148.134214
+    }
+  },
+  {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "location": {
+      "latitude": -33.856217,
+      "longitude": 151.215403
+    }
+  },
+  {
+    "name": "Brandenberg Gate",
+    "city": "Berlin",
+    "location": {
+      "latitude": 52.516298,
+      "longitude": 13.377992
+    }
+  },
+  {
+    "name": "Cologne Cathedral",
+    "city": "Cologne",
+    "location": {
+      "latitude": 50.941291,
+      "longitude": 6.957070
+    }
+  },
+  {
+    "name": "The Black Forest",
+    "city": "Schwarzwalder",
+    "location": {
+      "latitude": 48.281675,
+      "longitude": 8.188551
+    }
+  },
+  {
+    "name": "Cristo Redentor",
+    "city": "Rio De Janeiro",
+    "location": {
+      "latitude": -22.951547,
+      "longitude": -43.211214
+    }
+  },
+  {
+    "name": "Copacabana",
+    "city": "Rio de Janeiro",
+    "location": {
+      "latitude": -22.969314,
+      "longitude": -43.186866
+    }
+  },
+  {
+    "name": "Amazon river",
+    "city": "Brazil",
+    "location": {
+      "latitude": -3.328625,
+      "longitude": -58.747134
+    }
+  },
+  {
+    "name": "Roman Forum",
+    "city": "Rome",
+    "location": {
+      "latitude": 41.892384,
+      "longitude": 12.485312
+    }
+  },
+  {
+    "name": "Colosseo",
+    "city": "Rome",
+    "location": {
+      "latitude": 41.890002,
+      "longitude": 12.492241
+    }
+  },
+  {
+    "name": "Doge's Palace",
+    "city": "Venice",
+    "location": {
+      "latitude": 45.433978,
+      "longitude": 12.340302
+    }
+  },
+  {
+    "name": "Mount Fuji",
+    "city": "Fuji",
+    "location": {
+      "latitude": 35.360620,
+      "longitude": 138.727363
+    }
+  },
+  {
+    "name": "Itsukushima Shrine",
+    "city": "Itsukushima",
+    "location": {
+      "latitude": 34.295816,
+      "longitude": 132.319493
+    }
+  },
+  {
+    "name": "Himeji Castle",
+    "city": "Himeji",
+    "location": {
+      "latitude": 34.839166,
+      "longitude": 134.693910
+    }
+  },
+  {
+    "name": "Kruger National Park",
+    "city": "Mpumalanga",
+    "location": {
+      "latitude": -23.986509,
+      "longitude": 31.554596
+    }
+  },
+  {
+    "name": "Cape Point",
+    "city": "Cape Town",
+    "location": {
+      "latitude": -34.356722,
+      "longitude": 18.497542
+    }
+  },
+  {
+    "name": "Robben Island",
+    "city": "Robben Island",
+    "location": {
+      "latitude": -33.805950,
+      "longitude": 18.370378
+    }
+  }
+]

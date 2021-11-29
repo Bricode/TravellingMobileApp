@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_error">连接错误 :(</string>
+    <string name="loading">加载中…</string>
+    <string name="country_name">%1$s</string>
+    <string name="country_quiz">%1$s 测验</string>
+    <string name="submit">提交</string>
+    <string name="correct">正确的</string>
+    <string name="incorrect">不正确。 %1$s 是正确答案</string>
+    <string name="please_select_an_answer">请选择一个答案</string>
+    <string name="score">分数： %1$s</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="login_details">登录详细信息</string>
+    <string name="settings">切换照明模式</string>
+    <string name="delete_login_details">删除登录详细信息</string>
+    <string name="email_required">电子邮件是必需的</string>
+    <string name="email_formatted_incorrectly">电子邮件格式不正确</string>
+    <string name="user_created">用户创建</string>
+    <string name="password_required">密码是必需的</string>
+    <string name="password_too_short">密码至少需要8个字符</string>
+    <string name="password_not_match">密码不匹配</string>
+    <string name="sign_in_failed">登录失败</string>
+    <string name="user_already_exists">用户已存在</string>
+    <string name="login">登录</string>
+    <string name="dashboard">仪表盘</string>
+    <string name="sign_in">登入</string>
+    <string name="sign_up">报名</string>
+    <string name="email_address">电子邮件地址</string>
+    <string name="register">登记</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="return_to_login">返回登录</string>
+</resources>

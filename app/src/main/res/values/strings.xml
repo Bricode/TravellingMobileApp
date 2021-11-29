@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">Travelling</string>
+    <string name="connection_error">Connection Error :(</string>
+    <string name="loading">Loading…</string>
+    <string name="country_name">%1$s</string>
+    <string name="country_quiz">%1$s Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect. %1$s was the correct answer</string>
+    <string name="please_select_an_answer">Please select an answer</string>
+    <string name="score">Score: %1$s</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_details">Login Details</string>
+    <string name="settings">Switch Lighting Mode</string>
+    <string name="delete_login_details">Delete Login Details</string>
+    <string name="email_required">Email is required</string>
+    <string name="email_formatted_incorrectly">Email formatted incorrectly</string>
+    <string name="user_created">User created</string>
+    <string name="password_required">Password is required</string>
+    <string name="password_too_short">Password needs to be atleast 8 characters</string>
+    <string name="password_not_match">Password doesnt match</string>
+    <string name="sign_in_failed">Failed to sign in</string>
+    <string name="user_already_exists">User already exists</string>
+    <string name="login">Login</string>
+    <string name="quiz" translatable="false">Quiz</string>
+    <string name="Translate" translatable="false">Translate</string>
+    <string name="text_to_speech" translatable="false">Text To Speech</string>
+    <string name="common_phrases" translatable="false">Common phrases</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_address">Email Address</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="return_to_login">Return to login</string>
+    <string name="enter_text_to_be_spoken">Enter text to be spoken</string>
+    <string name="convert_text">Convert Text</string>
+    <string name="lighting_mode">Lighting Mode</string>
+    <string name="maps">maps</string>
+    <string name="home">Home</string>
+</resources>

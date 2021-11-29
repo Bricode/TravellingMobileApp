@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_error">接続エラー :(</string>
+    <string name="loading">読み込み中…</string>
+    <string name="country_name">%1$s</string>
+    <string name="country_quiz">%1$s クイズ</string>
+    <string name="submit">送信</string>
+    <string name="correct">正しい</string>
+    <string name="incorrect">正しくない. %1$s 正解でした</string>
+    <string name="please_select_an_answer">答えを選択してください</string>
+    <string name="score">スコア: %1$s</string>
+    <string name="username">ユーザー名</string>
+    <string name="password">パスワード</string>
+    <string name="login_details">ログインの詳細</string>
+    <string name="settings">照明モードを切り替える</string>
+    <string name="delete_login_details">ログインの詳細を削除する</string>
+    <string name="email_required">メールが必要です</string>
+    <string name="email_formatted_incorrectly">メールのフォーマットが正しくない</string>
+    <string name="user_created">ユーザーが作成しました</string>
+    <string name="password_required">パスワードが必要です</string>
+    <string name="password_too_short">パスワードは8文字以上である必要があります</string>
+    <string name="password_not_match">パスワードが一致しません</string>
+    <string name="sign_in_failed">サインインに失敗しました</string>
+    <string name="user_already_exists">このユーザーは既に存在します</string>
+    <string name="login">ログイン</string>
+    <string name="dashboard">ダッシュボード</string>
+    <string name="sign_in">ログイン</string>
+    <string name="sign_up">サインアップ</string>
+    <string name="email_address">電子メールアドレス</string>
+    <string name="register">登録</string>
+    <string name="confirm_password">パスワードを認証する</string>
+    <string name="return_to_login">ログインに戻る</string>
+</resources>

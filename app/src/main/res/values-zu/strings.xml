@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_error">Iphutha Lokuxhuma :(</string>
+    <string name="loading">Iyalayisha…</string>
+    <string name="country_name">%1$s</string>
+    <string name="country_quiz">%1$s imibuzo</string>
+    <string name="submit">Hambisa</string>
+    <string name="correct">Kulungile</string>
+    <string name="incorrect">Akulungile. %1$s kwakuyimpendulo efanele</string>
+    <string name="please_select_an_answer">Sicela ukhethe impendulo</string>
+    <string name="score">Umphumela: %1$s</string>
+    <string name="username">Igama lomsebenzisi</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="login_details">Imininingwane yokungena</string>
+    <string name="settings">Shintsha Imodi Yokukhanyisa</string>
+    <string name="delete_login_details">Susa imininingwane yokungena</string>
+    <string name="email_required">I-imeyili iyadingeka</string>
+    <string name="email_formatted_incorrectly">I-imeyili ayifomethiwe kahle</string>
+    <string name="user_created">Umsebenzisi udaliwe</string>
+    <string name="password_required">Iphasiwedi iyadingeka</string>
+    <string name="password_too_short">Iphasiwedi idinga okungenani izinhlamvu eziyi-8</string>
+    <string name="password_not_match">Iphasiwedi ayifani</string>
+    <string name="sign_in_failed">Yehlulekile ukungena ngemvume</string>
+    <string name="user_already_exists">Umsebenzisi usevele ekhona</string>
+    <string name="login">Ngena ngemvume</string>
+    <string name="dashboard">Ideshibhodi</string>
+    <string name="sign_in">Ngena ngemvume</string>
+    <string name="sign_up">Bhalisela</string>
+    <string name="email_address">Ikheli le-imeyili</string>
+    <string name="register">Bhalisa</string>
+    <string name="confirm_password">Qinisekisa Iphasiwedi</string>
+    <string name="return_to_login">Buyela ekungeneni ngemvume</string>
+</resources>

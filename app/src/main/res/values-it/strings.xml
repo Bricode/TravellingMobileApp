@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_error">Errore di connessione :(</string>
+    <string name="loading">Caricamento in corso…</string>
+    <string name="country_name">%1$s</string>
+    <string name="country_quiz">%1$s Quiz</string>
+    <string name="submit">Invia</string>
+    <string name="correct">Corretto</string>
+    <string name="incorrect">Errato. %1$s era la risposta corretta</string>
+    <string name="please_select_an_answer">Seleziona una risposta</string>
+    <string name="score">Punto: %1$s</string>
+    <string name="username">Nome utente</string>
+    <string name="password">Parola d\'ordine</string>
+    <string name="login_details">dettagli del login</string>
+    <string name="settings">Cambia modalità di illuminazione</string>
+    <string name="delete_login_details">Elimina i dettagli di accesso</string>
+    <string name="email_required">L\'e-mail è obbligatoria</string>
+    <string name="email_formatted_incorrectly">Email formattata in modo errato</string>
+    <string name="user_created">Utente creato</string>
+    <string name="password_required">E \'richiesta la password</string>
+    <string name="password_too_short">La password deve contenere almeno 8 caratteri</string>
+    <string name="password_not_match">La password non corrisponde</string>
+    <string name="sign_in_failed">Accesso non riuscito</string>
+    <string name="user_already_exists">L\'utente esiste già</string>
+    <string name="login">Login</string>
+    <string name="dashboard">Pannello di controllo</string>
+    <string name="sign_in">Registrazione</string>
+    <string name="sign_up">Iscriviti</string>
+    <string name="email_address">Indirizzo email</string>
+    <string name="register">Registrati</string>
+    <string name="confirm_password">conferma password</string>
+    <string name="return_to_login">Torna al login</string>
+</resources>

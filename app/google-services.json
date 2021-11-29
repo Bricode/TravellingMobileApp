@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192872200215",
+    "project_id": "chalbr1-travelling",
+    "storage_bucket": "chalbr1-travelling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192872200215:android:7b1b152a78c092cca04452",
+        "android_client_info": {
+          "package_name": "op.mobile.app.dev.chalbr1.travelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192872200215-8ig3ajphi51nek3e3oekqn9obotfqc5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJlWrXRR7-e4urcS7z44A7MjNjUI-l4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192872200215-8ig3ajphi51nek3e3oekqn9obotfqc5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
